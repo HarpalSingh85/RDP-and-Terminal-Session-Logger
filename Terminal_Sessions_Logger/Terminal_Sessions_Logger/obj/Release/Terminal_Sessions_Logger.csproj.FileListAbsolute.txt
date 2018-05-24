@@ -1,0 +1,5 @@
+C:\Users\asinghh8\Documents\Visual Studio 2015\Projects\Terminal_Sessions_Logger\Terminal_Sessions_Logger\bin\Release\Terminal_Sessions_Logger.exe.config
+C:\Users\asinghh8\Documents\Visual Studio 2015\Projects\Terminal_Sessions_Logger\Terminal_Sessions_Logger\bin\Release\Terminal_Sessions_Logger.exe
+C:\Users\asinghh8\Documents\Visual Studio 2015\Projects\Terminal_Sessions_Logger\Terminal_Sessions_Logger\bin\Release\Terminal_Sessions_Logger.pdb
+C:\Users\asinghh8\Documents\Visual Studio 2015\Projects\Terminal_Sessions_Logger\Terminal_Sessions_Logger\obj\Release\Terminal_Sessions_Logger.exe
+C:\Users\asinghh8\Documents\Visual Studio 2015\Projects\Terminal_Sessions_Logger\Terminal_Sessions_Logger\obj\Release\Terminal_Sessions_Logger.pdb
